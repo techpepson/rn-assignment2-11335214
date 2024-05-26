@@ -1,3 +1,4 @@
+![rn](https://github.com/techpepson/rn-assignment2-11335214/assets/124635484/54d01336-922a-40ef-9d18-073d5fd8906d)
 # rn-assignment2-11335214
 
 The repository for the react native assignment 2
